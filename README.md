@@ -1,9 +1,10 @@
-# Movies Exract -- Transform -- Load Pipeline
+# Movies --Exract -- Transform -- Load-- Pipeline
 
 ## Overview
 
-## Results
+Created an automated pipeline that takes in new data, performs 
+transformations, and loads the data into Postgres.
 
-## Summary
+The data is composed of information about movies collected from a wikipedia web scrape, and a couple kaggle data sets.
 
 
