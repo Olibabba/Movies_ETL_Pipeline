@@ -1,4 +1,4 @@
-# Movies --Exract -- Transform -- Load-- Pipeline
+# Movies --Extract -- Transform -- Load-- Pipeline
 
 ## Overview
 
