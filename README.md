@@ -5,6 +5,6 @@
 Created an automated pipeline that takes in new data, performs 
 transformations, and loads the data into Postgres.
 
-The data is composed of information about movies collected from a wikipedia web scrape, and a couple kaggle data sets.
+The data is composed of information about movies collected from a wikipedia web scrape, and a couple kaggle of data sets.
 
 
